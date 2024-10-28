@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AdapterPatern.CSSeries
 {
-    internal sealed class CS01 : ICSSeries
+    internal sealed class CS01 : CSSeriesBase
     {
-        public int GetValue()
+        public override int GetValue()
         {
             return 1000;
         }

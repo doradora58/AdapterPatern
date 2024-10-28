@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace AdapterPatern.CSSeries
 {
-    public interface ICSSeries
+
+    public abstract class CSSeriesBase
     {
-        int GetValue();
+        public abstract int GetValue();
     }
 }

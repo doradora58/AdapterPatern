@@ -11,20 +11,36 @@
       "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58AD641C-266E-4BC9-847C-DB4C99A170F3}|VB\\VB.vbproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\vb\\vb01.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{58AD641C-266E-4BC9-847C-DB4C99A170F3}|VB\\VB.vbproj|solutionrelative:vb\\vb01.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\vbseriesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\vbseriesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\icsseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\icsseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\vb01adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\vb01adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58AD641C-266E-4BC9-847C-DB4C99A170F3}|VB\\VB.vbproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\vb\\vb01.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58AD641C-266E-4BC9-847C-DB4C99A170F3}|VB\\VB.vbproj|solutionrelative:vb\\vb01.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58AD641C-266E-4BC9-847C-DB4C99A170F3}|VB\\VB.vbproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\vb\\vb02.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -39,24 +55,8 @@
       "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\measureform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\icsseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\icsseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\measureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|c:\\work\\01_source\\adapterpatern\\adapterpatern\\adapterpatern\\csseries\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{040564EB-F660-4CA0-AE64-6968EEB3123D}|AdapterPatern\\AdapterPatern.csproj|solutionrelative:adapterpatern\\csseries\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -76,75 +76,74 @@
               "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\VBSeriesAdapter.cs",
               "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\VBSeriesAdapter.cs",
               "RelativeToolTip": "AdapterPatern\\CSSeries\\VBSeriesAdapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:06:39.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VB02.vb",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB02.vb",
-              "RelativeDocumentMoniker": "VB\\VB02.vb",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB02.vb",
-              "RelativeToolTip": "VB\\VB02.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-28T10:04:47.61Z",
+              "DocumentIndex": 2,
+              "Title": "MeasureForm.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\MeasureForm.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
+              "RelativeToolTip": "AdapterPatern\\MeasureForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:21:14.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IVBSeries.vb",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\IVBSeries.vb",
-              "RelativeDocumentMoniker": "VB\\IVBSeries.vb",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\IVBSeries.vb",
-              "RelativeToolTip": "VB\\IVBSeries.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-28T10:03:13.195Z",
+              "Title": "ICSSeries.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\ICSSeries.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\ICSSeries.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\ICSSeries.cs",
+              "RelativeToolTip": "AdapterPatern\\CSSeries\\ICSSeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:26:23.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CS02.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS02.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\CS02.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS02.cs",
+              "RelativeToolTip": "AdapterPatern\\CSSeries\\CS02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:27:28.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "VB01Adapter.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\VB01Adapter.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\VB01Adapter.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\VB01Adapter.cs",
-              "RelativeToolTip": "AdapterPatern\\CSSeries\\VB01Adapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Title": "CS01.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS01.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\CS01.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS01.cs",
+              "RelativeToolTip": "AdapterPatern\\CSSeries\\CS01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:46:54.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuForm.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MenuForm.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\MenuForm.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MenuForm.cs",
-              "RelativeToolTip": "AdapterPatern\\MenuForm.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAASwCkAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:24:10.695Z",
+              "WhenOpened": "2024-10-28T09:26:53.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VB01.vb",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB01.vb",
-              "RelativeDocumentMoniker": "VB\\VB01.vb",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB01.vb",
-              "RelativeToolTip": "VB\\VB01.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-10-28T09:14:10.003Z",
-              "EditorCaption": ""
+              "Title": "MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\MeasureForm.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "AdapterPatern\\MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:19:29.656Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
             },
             {
               "$type": "Document",
@@ -160,19 +159,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\MeasureForm.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "AdapterPatern\\MeasureForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MenuForm.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\MenuForm.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MenuForm.cs",
+              "RelativeToolTip": "AdapterPatern\\MenuForm.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:19:29.656Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2024-10-28T09:24:10.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "VB01Adapter.cs",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\VB01Adapter.cs",
+              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\VB01Adapter.cs",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\VB01Adapter.cs",
+              "RelativeToolTip": "AdapterPatern\\CSSeries\\VB01Adapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:46:54.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VB01.vb",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB01.vb",
+              "RelativeDocumentMoniker": "VB\\VB01.vb",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB01.vb",
+              "RelativeToolTip": "VB\\VB01.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T09:14:10.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IVBSeries.vb",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\IVBSeries.vb",
+              "RelativeDocumentMoniker": "VB\\IVBSeries.vb",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\IVBSeries.vb",
+              "RelativeToolTip": "VB\\IVBSeries.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T10:03:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VB02.vb",
+              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB02.vb",
+              "RelativeDocumentMoniker": "VB\\VB02.vb",
+              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\VB\\VB02.vb",
+              "RelativeToolTip": "VB\\VB02.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-28T10:04:47.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MeasureForm.Designer.cs",
               "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.Designer.cs",
               "RelativeDocumentMoniker": "AdapterPatern\\MeasureForm.Designer.cs",
@@ -185,20 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICSSeries.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\ICSSeries.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\ICSSeries.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\ICSSeries.cs",
-              "RelativeToolTip": "AdapterPatern\\CSSeries\\ICSSeries.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:26:23.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "MenuForm.Designer.cs",
               "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MenuForm.Designer.cs",
               "RelativeDocumentMoniker": "AdapterPatern\\MenuForm.Designer.cs",
@@ -207,45 +246,6 @@
               "ViewState": "AQIAADAAAAAAAAAAAADgvzUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T09:15:23.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MeasureForm.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\MeasureForm.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\MeasureForm.cs",
-              "RelativeToolTip": "AdapterPatern\\MeasureForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:21:14.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CS01.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS01.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\CS01.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS01.cs",
-              "RelativeToolTip": "AdapterPatern\\CSSeries\\CS01.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:26:53.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CS02.cs",
-              "DocumentMoniker": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS02.cs",
-              "RelativeDocumentMoniker": "AdapterPatern\\CSSeries\\CS02.cs",
-              "ToolTip": "C:\\work\\01_source\\AdapterPatern\\AdapterPatern\\AdapterPatern\\CSSeries\\CS02.cs",
-              "RelativeToolTip": "AdapterPatern\\CSSeries\\CS02.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:27:28.827Z",
               "EditorCaption": ""
             }
           ]
