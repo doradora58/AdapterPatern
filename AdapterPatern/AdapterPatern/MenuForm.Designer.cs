@@ -31,6 +31,7 @@
             CS01Button = new Button();
             CS02Button = new Button();
             VB01Button = new Button();
+            VB02Button = new Button();
             SuspendLayout();
             // 
             // CS01Button
@@ -63,11 +64,22 @@
             VB01Button.UseVisualStyleBackColor = true;
             VB01Button.Click += VB01Button_Click;
             // 
+            // VB02Button
+            // 
+            VB02Button.Location = new Point(145, 224);
+            VB02Button.Name = "VB02Button";
+            VB02Button.Size = new Size(164, 44);
+            VB02Button.TabIndex = 3;
+            VB02Button.Text = "VB02";
+            VB02Button.UseVisualStyleBackColor = true;
+            VB02Button.Click += VB02Button_Click;
+            // 
             // MenuForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(577, 296);
+            Controls.Add(VB02Button);
             Controls.Add(VB01Button);
             Controls.Add(CS02Button);
             Controls.Add(CS01Button);
@@ -81,5 +93,6 @@
         private Button CS01Button;
         private Button CS02Button;
         private Button VB01Button;
+        private Button VB02Button;
     }
 }

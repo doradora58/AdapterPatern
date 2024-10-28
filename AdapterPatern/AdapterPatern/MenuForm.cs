@@ -1,4 +1,5 @@
 using AdapterPatern.CSSeries;
+using VB;
 
 namespace AdapterPatern
 {
@@ -30,7 +31,15 @@ namespace AdapterPatern
 
         private void VB01Button_Click(object sender, EventArgs e)
         {
-            using (MeasureForm f = new MeasureForm(new VB01Adapter()))
+            using (MeasureForm f = new(new VBSeriesAdapter(new VB.VB01())))
+            {
+                f.ShowDialog();
+            }
+        }
+
+        private void VB02Button_Click(object sender, EventArgs e)
+        {
+            using (MeasureForm f = new(new VBSeriesAdapter(new VB.VB02())))
             {
                 f.ShowDialog();
             }

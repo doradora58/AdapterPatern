@@ -19,3 +19,4 @@ C:\work\01_source\AdapterPatern\AdapterPatern\AdapterPatern\bin\Debug\net8.0-win
 C:\work\01_source\AdapterPatern\AdapterPatern\AdapterPatern\bin\Debug\net8.0-windows\VB.pdb
 C:\work\01_source\AdapterPatern\AdapterPatern\AdapterPatern\obj\Debug\net8.0-windows\AdapterPatern.csproj.AssemblyReference.cache
 C:\work\01_source\AdapterPatern\AdapterPatern\AdapterPatern\obj\Debug\net8.0-windows\AdapterP.E0C583EE.Up2Date
+C:\work\01_source\AdapterPatern\AdapterPatern\AdapterPatern\obj\Debug\net8.0-windows\AdapterPatern.sourcelink.json
